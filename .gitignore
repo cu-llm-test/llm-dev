@@ -1,2 +1,6 @@
 /**/*.env
 /**/__pycache__
+.venv*
+/**/storage01
+/**/chroma_db
+/**/data
